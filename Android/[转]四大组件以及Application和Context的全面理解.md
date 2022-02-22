@@ -1,4 +1,4 @@
-# 四大组件以及Application和Context的全面理解
+# [转]四大组件以及Application和Context的全面理解
 
 
 > 作者：何时夕
